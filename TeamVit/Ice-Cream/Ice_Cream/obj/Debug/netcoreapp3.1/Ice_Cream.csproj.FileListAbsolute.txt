@@ -668,7 +668,6 @@ D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\bin\Debug\netco
 D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.csprojAssemblyReference.cache
 D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.AssemblyInfoInputs.cache
 D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.AssemblyInfo.cs
 D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.csproj.CoreCompileInputs.cache
@@ -697,3 +696,4 @@ D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\obj\Debug\netco
 D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.dll
 D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.pdb
 D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.genruntimeconfig.cache
+D:\Visual Studio 2019\EAP\ProjectIce\TeamVit\Ice-Cream\Ice_Cream\obj\Debug\netcoreapp3.1\Ice_Cream.csprojAssemblyReference.cache
